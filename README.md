@@ -14,3 +14,25 @@
 * To organize and structure your code using JavaScript patterns like modules
 
 #### It's a great course and I highly recommend it!
+
+### Below are some screenhots of the different projects you get to build in the course.
+
+#### Budget App
+
+![](./screens/budget-app.png)
+
+
+
+#### Recipe API App
+
+![](./screens/recipe-api-app.png)
+
+
+
+#### NodeJS Laptop Store
+
+![](./screens/node-laptop-store-main.png)
+
+
+
+![](./screens/node-laptop-store-single.png)
