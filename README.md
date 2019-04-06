@@ -15,7 +15,7 @@
 
 #### It's a great course and I highly recommend it!
 
-### Below are some screenhots of the different projects you get to build in the course.
+### Below are some screenshots of the different projects you get to build in the course.
 
 #### Budget App
 
